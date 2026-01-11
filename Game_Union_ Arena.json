@@ -1,0 +1,175 @@
+{
+  "name": "Union Arena",
+  "menuBackgroundImage": "https://tmacaroni.github.io/Union-Arena-TCGA/Union_Arena_Bandai.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://tmacaroni.github.io/Union-Arena-TCGA/Union_Arena_Bandai.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://tmacaroni.github.io/Union-Arena-TCGA/CardList.json",
+    "cardBack": "https://tmacaroni.github.io/Union-Arena-TCGA/card_back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Character",
+      "Event",
+      "Site",
+      "Energy Cost",
+      "Name",
+      "Color ",
+      "Energy Generation"
+    ],
+    "formats": [
+      {
+        "title": "JP",
+        "gameplay": "1",
+        "customCategories": []
+      },
+      {
+        "title": "NA",
+        "gameplay": "2",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Union Ari gameplay": {
+      "mulligan": {
+        "info": "Keep all 7 or mulligan to get a new hand",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "1",
+        "2"
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Life Area",
+          "AP Area",
+          "Front Line",
+          "Energy Line"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Front Line",
+              "style": false
+            },
+            {
+              "section": "Energy Line",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "AP Area",
+                  "style": false
+                },
+                {
+                  "section": "Life Area",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Action Points"
+        ],
+        "autoPlayFromHand": {
+          "Events": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Events ": "Stack"
+        },
+        "sectionsDict": {
+          "AP Area": {
+            "title": "Action Points",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "AP",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Life Area": {
+            "title": "Life Area",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Energy Line": {
+            "title": "Energy Line",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
+          },
+          "Front Line": {
+            "title": "Front Line",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
+          }
+        }
+      }
+    }
+  }
+}
