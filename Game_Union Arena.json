@@ -21,7 +21,8 @@
       "Energy Cost",
       "Name",
       "Color ",
-      "Energy Generation"
+      "Energy Generation",
+      "Action Point"
     ],
     "formats": [
       {
@@ -94,7 +95,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Action Points"
+          "Action Point"
         ],
         "autoPlayFromHand": {
           "Events": "Stack"
@@ -161,7 +162,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
