@@ -1,0 +1,358 @@
+{
+  "REZ-1-001": {
+    "id": "REZ-1-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Puck",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-001_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Puck",
+    "type": "Character",
+    "cost": "1",
+    "": ""
+  },
+  "REZ-1-002": {
+    "id": "REZ-1-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Puck",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-002_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Puck",
+    "type": "Character",
+    "cost": "3",
+    "": ""
+  },
+  "Frederica Baumann": {
+    "id": "Frederica Baumann",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frederica Baumann",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-003_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frederica Baumann",
+    "type": "Character",
+    "cost": "3",
+    "": ""
+  },
+  "REZ-1-004": {
+    "id": "REZ-1-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beatrice",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-004_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beatrice",
+    "type": "Character",
+    "cost": "4",
+    "": ""
+  },
+  "REZ-1-005": {
+    "id": "REZ-1-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petra Leyte",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-005_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Petra Leyte",
+    "type": "Character",
+    "cost": 0,
+    "": ""
+  },
+  "REZ-1-006": {
+    "id": "REZ-1-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ram",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-006_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ram",
+    "type": "Character",
+    "cost": 0,
+    "": ""
+  },
+  "REZ-1-007": {
+    "id": "REZ-1-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ram",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-007_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ram",
+    "type": "Character",
+    "cost": 0,
+    "": "",
+    "Name": "Ram",
+    "Colour": false,
+    "Energy Cost": "0",
+    "AP Cost": "1",
+    "Title": "Re: Zero",
+    "Energy Generation": "1",
+    "Trigger": true,
+    "Trigger Type": "Draw"
+  },
+  "REZ-1-008": {
+    "id": "REZ-1-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ram",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-008_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ram",
+    "type": "Character",
+    "cost": "2",
+    "": "",
+    "Name": "Ram",
+    "Colour": "Yellow",
+    "Energy Cost": "2",
+    "AP Cost": "1",
+    "Title": "Re:Zero",
+    "Energy Generation": "1",
+    "Trigger": true,
+    "Trigger Type": "Active"
+  },
+  "REZ-1-009": {
+    "id": "REZ-1-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ram",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-009_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ram",
+    "type": "Character",
+    "cost": "1",
+    "": ""
+  },
+  "REZ-1-010": {
+    "id": "REZ-1-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ram",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-010_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ram",
+    "type": "Character",
+    "cost": "3",
+    "": ""
+  },
+  "REZ-1-011": {
+    "id": "REZ-1-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ram",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-011_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ram",
+    "type": "Character",
+    "cost": "4",
+    "": ""
+  },
+  "REZ-1-012": {
+    "id": "REZ-1-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-012_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": 0,
+    "": ""
+  },
+  "REZ-1-013": {
+    "id": "REZ-1-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-013_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": 0,
+    "": ""
+  },
+  "REZ-1-014": {
+    "id": "REZ-1-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-014_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "1",
+    "": ""
+  },
+  "REZ-1-015": {
+    "id": "REZ-1-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-015_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "3",
+    "": ""
+  },
+  "REZ-1-016": {
+    "id": "REZ-1-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-016_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "2",
+    "": ""
+  },
+  "REZ-1-017": {
+    "id": "REZ-1-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-017_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "4",
+    "": ""
+  },
+  "REZ-1-018": {
+    "id": "REZ-1-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-018_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "3",
+    "": ""
+  },
+  "REZ-1-019": {
+    "id": "REZ-1-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-019_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "4",
+    "": ""
+  },
+  "REZ-1-020": {
+    "id": "REZ-1-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rem",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-020_translated.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rem",
+    "type": "Character",
+    "cost": "5",
+    "": ""
+  }
+}
