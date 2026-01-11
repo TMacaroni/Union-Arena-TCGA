@@ -1,358 +1,2722 @@
 {
-  "REZ-1-001": {
-    "id": "REZ-1-001",
+  "UA44BT-EVA-1-001": {
+    "id": "UA44BT-EVA-1-001",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Puck",
-        "type": "Character",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/UA40BT-REZ-1-001_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "REZ-1-001",
-    "type": "Character",
-    "cost": "1",
-    "": ""
+    "name": "UA44BT-EVA-1-001",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-002": {
-    "id": "REZ-1-002",
+  "UA44BT-EVA-1-002": {
+    "id": "UA44BT-EVA-1-002",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Puck",
-        "type": "Character",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/UA40BT-REZ-1-002_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "REZ-1-002",
-    "type": "Character",
-    "cost": "3",
-    "": ""
+    "name": "UA44BT-EVA-1-002",
+    "type": "",
+    "cost": ""
   },
-  "Frederica Baumann": {
-    "id": "Frederica Baumann",
+  "UA44BT-EVA-1-002-ALT1": {
+    "id": "UA44BT-EVA-1-002-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Frederica Baumann",
-        "type": "Character",
-        "cost": "3",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-003_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Frederica Baumann",
-    "type": "Character",
-    "cost": "3",
-    "": ""
+    "name": "UA44BT-EVA-1-002-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-004": {
-    "id": "REZ-1-004",
+  "UA44BT-EVA-1-003": {
+    "id": "UA44BT-EVA-1-003",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Beatrice",
-        "type": "Character",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/UA40BT-REZ-1-004_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Beatrice",
-    "type": "Character",
-    "cost": "4",
-    "": ""
+    "name": "UA44BT-EVA-1-003",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-005": {
-    "id": "REZ-1-005",
+  "UA44BT-EVA-1-003-ALT1": {
+    "id": "UA44BT-EVA-1-003-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Petra Leyte",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-005_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Petra Leyte",
-    "type": "Character",
-    "cost": 0,
-    "": ""
+    "name": "UA44BT-EVA-1-003-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-006": {
-    "id": "REZ-1-006",
+  "UA44BT-EVA-1-004": {
+    "id": "UA44BT-EVA-1-004",
     "isToken": false,
     "face": {
       "front": {
-        "name": "REZ-1-006",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-006_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Ram",
-    "type": "Character",
-    "cost": 0,
-    "": ""
+    "name": "UA44BT-EVA-1-004",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-007": {
-    "id": "REZ-1-007",
+  "UA44BT-EVA-1-004-ALT1": {
+    "id": "UA44BT-EVA-1-004-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "REZ-1-007",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-007_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Ram",
-    "type": "Character",
-    "cost": 0,
-    "": "",
-    "Name": "Ram",
-    "Colour": false,
-    "Energy Cost": "0",
-    "AP Cost": "1",
-    "Title": "Re: Zero",
-    "Energy Generation": "1",
-    "Trigger": true,
-    "Trigger Type": "Draw"
+    "name": "UA44BT-EVA-1-004-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-008": {
-    "id": "REZ-1-008",
+  "UA44BT-EVA-1-005": {
+    "id": "UA44BT-EVA-1-005",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ram",
-        "type": "Character",
-        "cost": "2",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-008_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Ram",
-    "type": "Character",
-    "cost": "2",
-    "": "",
-    "Name": "Ram",
-    "Colour": "Yellow",
-    "Energy Cost": "2",
-    "AP Cost": "1",
-    "Title": "Re:Zero",
-    "Energy Generation": "1",
-    "Trigger": true,
-    "Trigger Type": "Active"
+    "name": "UA44BT-EVA-1-005",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-009": {
-    "id": "REZ-1-009",
+  "UA44BT-EVA-1-005-ALT1": {
+    "id": "UA44BT-EVA-1-005-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ram",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-009_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Ram",
-    "type": "Character",
-    "cost": "1",
-    "": ""
+    "name": "UA44BT-EVA-1-005-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-010": {
-    "id": "REZ-1-010",
+  "UA44BT-EVA-1-006": {
+    "id": "UA44BT-EVA-1-006",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ram",
-        "type": "Character",
-        "cost": "3",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-010_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Ram",
-    "type": "Character",
-    "cost": "3",
-    "": ""
+    "name": "UA44BT-EVA-1-006",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-011": {
-    "id": "REZ-1-011",
+  "UA44BT-EVA-1-007": {
+    "id": "UA44BT-EVA-1-007",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ram",
-        "type": "Character",
-        "cost": "4",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-011_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Ram",
-    "type": "Character",
-    "cost": "4",
-    "": ""
+    "name": "UA44BT-EVA-1-007",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-012": {
-    "id": "REZ-1-012",
+  "UA44BT-EVA-1-008": {
+    "id": "UA44BT-EVA-1-008",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-012_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": 0,
-    "": ""
+    "name": "UA44BT-EVA-1-008",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-013": {
-    "id": "REZ-1-013",
+  "UA44BT-EVA-1-008-ALT1": {
+    "id": "UA44BT-EVA-1-008-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-013_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": 0,
-    "": ""
+    "name": "UA44BT-EVA-1-008-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-014": {
-    "id": "REZ-1-014",
+  "UA44BT-EVA-1-009": {
+    "id": "UA44BT-EVA-1-009",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "1",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-014_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "1",
-    "": ""
+    "name": "UA44BT-EVA-1-009",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-015": {
-    "id": "REZ-1-015",
+  "UA44BT-EVA-1-009-ALT1": {
+    "id": "UA44BT-EVA-1-009-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "3",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-015_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "3",
-    "": ""
+    "name": "UA44BT-EVA-1-009-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-016": {
-    "id": "REZ-1-016",
+  "UA44BT-EVA-1-010": {
+    "id": "UA44BT-EVA-1-010",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "2",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-016_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "2",
-    "": ""
+    "name": "UA44BT-EVA-1-010",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-017": {
-    "id": "REZ-1-017",
+  "UA44BT-EVA-1-011": {
+    "id": "UA44BT-EVA-1-011",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "4",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-017_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "4",
-    "": ""
+    "name": "UA44BT-EVA-1-011",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-018": {
-    "id": "REZ-1-018",
+  "UA44BT-EVA-1-012": {
+    "id": "UA44BT-EVA-1-012",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "3",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-018_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "3",
-    "": ""
+    "name": "UA44BT-EVA-1-012",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-019": {
-    "id": "REZ-1-019",
+  "UA44BT-EVA-1-012-ALT1": {
+    "id": "UA44BT-EVA-1-012-ALT1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "4",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-019_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "4",
-    "": ""
+    "name": "UA44BT-EVA-1-012-ALT1",
+    "type": "",
+    "cost": ""
   },
-  "REZ-1-020": {
-    "id": "REZ-1-020",
+  "UA44BT-EVA-1-013": {
+    "id": "UA44BT-EVA-1-013",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rem",
-        "type": "Character",
-        "cost": "5",
-        "image": "https://raw.githubusercontent.com/TMacaroni/Union-Arena-TCGA/6aa11d74c5d90411ffbfcdf00165bd19a7831c1a/img/UA40BT-REZ-1-020_translated.jpg",
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Rem",
-    "type": "Character",
-    "cost": "5",
-    "": ""
+    "name": "UA44BT-EVA-1-013",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-013-ALT1": {
+    "id": "UA44BT-EVA-1-013-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-013-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-014": {
+    "id": "UA44BT-EVA-1-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-014",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-014-ALT1": {
+    "id": "UA44BT-EVA-1-014-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-014-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-015": {
+    "id": "UA44BT-EVA-1-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-015",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-016": {
+    "id": "UA44BT-EVA-1-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-016",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-017": {
+    "id": "UA44BT-EVA-1-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-017",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-017-ALT1": {
+    "id": "UA44BT-EVA-1-017-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-017-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-018": {
+    "id": "UA44BT-EVA-1-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-018",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-018-ALT1": {
+    "id": "UA44BT-EVA-1-018-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-018-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-019": {
+    "id": "UA44BT-EVA-1-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-019",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-020": {
+    "id": "UA44BT-EVA-1-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-020",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-021": {
+    "id": "UA44BT-EVA-1-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-021",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-022": {
+    "id": "UA44BT-EVA-1-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-022",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-023": {
+    "id": "UA44BT-EVA-1-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-023",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-024": {
+    "id": "UA44BT-EVA-1-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-024",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-025": {
+    "id": "UA44BT-EVA-1-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-025",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-026": {
+    "id": "UA44BT-EVA-1-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-026",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-026-ALT1": {
+    "id": "UA44BT-EVA-1-026-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-026-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-027": {
+    "id": "UA44BT-EVA-1-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-027",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-028": {
+    "id": "UA44BT-EVA-1-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-028",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-029": {
+    "id": "UA44BT-EVA-1-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-029",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-030": {
+    "id": "UA44BT-EVA-1-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-030",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-031": {
+    "id": "UA44BT-EVA-1-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-031",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-032": {
+    "id": "UA44BT-EVA-1-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-032",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-033": {
+    "id": "UA44BT-EVA-1-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-033",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-033-ALT1": {
+    "id": "UA44BT-EVA-1-033-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-033-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-034": {
+    "id": "UA44BT-EVA-1-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-034",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-034-ALT1": {
+    "id": "UA44BT-EVA-1-034-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-034-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-035": {
+    "id": "UA44BT-EVA-1-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-035",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-036": {
+    "id": "UA44BT-EVA-1-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-036",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-037": {
+    "id": "UA44BT-EVA-1-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-037",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-038": {
+    "id": "UA44BT-EVA-1-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-038",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-039": {
+    "id": "UA44BT-EVA-1-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-039",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-039-ALT1": {
+    "id": "UA44BT-EVA-1-039-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-039-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-039-ALT2": {
+    "id": "UA44BT-EVA-1-039-ALT2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-039-ALT2",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-040": {
+    "id": "UA44BT-EVA-1-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-040",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-041": {
+    "id": "UA44BT-EVA-1-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-041",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-042": {
+    "id": "UA44BT-EVA-1-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-042",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-042-ALT1": {
+    "id": "UA44BT-EVA-1-042-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-042-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-043": {
+    "id": "UA44BT-EVA-1-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-043",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-043-ALT1": {
+    "id": "UA44BT-EVA-1-043-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-043-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-044": {
+    "id": "UA44BT-EVA-1-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-044",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-045": {
+    "id": "UA44BT-EVA-1-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-045",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-046": {
+    "id": "UA44BT-EVA-1-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-046",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-046-ALT1": {
+    "id": "UA44BT-EVA-1-046-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-046-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-047": {
+    "id": "UA44BT-EVA-1-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-047",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-048": {
+    "id": "UA44BT-EVA-1-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-048",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-049": {
+    "id": "UA44BT-EVA-1-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-049",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-050": {
+    "id": "UA44BT-EVA-1-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-050",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-051": {
+    "id": "UA44BT-EVA-1-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-051",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-052": {
+    "id": "UA44BT-EVA-1-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-052",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-053": {
+    "id": "UA44BT-EVA-1-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-053",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-053-ALT1": {
+    "id": "UA44BT-EVA-1-053-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-053-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-054": {
+    "id": "UA44BT-EVA-1-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-054",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-055": {
+    "id": "UA44BT-EVA-1-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-055",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-056": {
+    "id": "UA44BT-EVA-1-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-056",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-057": {
+    "id": "UA44BT-EVA-1-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-057",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-058": {
+    "id": "UA44BT-EVA-1-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-058",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-059": {
+    "id": "UA44BT-EVA-1-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-059",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-060": {
+    "id": "UA44BT-EVA-1-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-060",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-061": {
+    "id": "UA44BT-EVA-1-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-061",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-062": {
+    "id": "UA44BT-EVA-1-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-062",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-063": {
+    "id": "UA44BT-EVA-1-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-063",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-064": {
+    "id": "UA44BT-EVA-1-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-064",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-065": {
+    "id": "UA44BT-EVA-1-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-065",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-066": {
+    "id": "UA44BT-EVA-1-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-066",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-067": {
+    "id": "UA44BT-EVA-1-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-067",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-068": {
+    "id": "UA44BT-EVA-1-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-068",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-069": {
+    "id": "UA44BT-EVA-1-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-069",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-070": {
+    "id": "UA44BT-EVA-1-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-070",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-071": {
+    "id": "UA44BT-EVA-1-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-071",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-072": {
+    "id": "UA44BT-EVA-1-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-072",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-073": {
+    "id": "UA44BT-EVA-1-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-073",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-074": {
+    "id": "UA44BT-EVA-1-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-074",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-075": {
+    "id": "UA44BT-EVA-1-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-075",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-076": {
+    "id": "UA44BT-EVA-1-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-076",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-077": {
+    "id": "UA44BT-EVA-1-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-077",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-078": {
+    "id": "UA44BT-EVA-1-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-078",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-079": {
+    "id": "UA44BT-EVA-1-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-079",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-079-ALT1": {
+    "id": "UA44BT-EVA-1-079-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-079-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-079-ALT2": {
+    "id": "UA44BT-EVA-1-079-ALT2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-079-ALT2",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-079-ALT3": {
+    "id": "UA44BT-EVA-1-079-ALT3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-079-ALT3",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-080": {
+    "id": "UA44BT-EVA-1-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-080",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-080-ALT1": {
+    "id": "UA44BT-EVA-1-080-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-080-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-080-ALT2": {
+    "id": "UA44BT-EVA-1-080-ALT2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-080-ALT2",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-081": {
+    "id": "UA44BT-EVA-1-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-081",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-081-ALT1": {
+    "id": "UA44BT-EVA-1-081-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-081-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-082": {
+    "id": "UA44BT-EVA-1-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-082",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-082-ALT1": {
+    "id": "UA44BT-EVA-1-082-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-082-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-083": {
+    "id": "UA44BT-EVA-1-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-083",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-084": {
+    "id": "UA44BT-EVA-1-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-084",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-085": {
+    "id": "UA44BT-EVA-1-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-085",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-085-ALT1": {
+    "id": "UA44BT-EVA-1-085-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-085-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-086": {
+    "id": "UA44BT-EVA-1-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-086",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-087": {
+    "id": "UA44BT-EVA-1-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-087",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-088": {
+    "id": "UA44BT-EVA-1-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-088",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-089": {
+    "id": "UA44BT-EVA-1-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-089",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-090": {
+    "id": "UA44BT-EVA-1-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-090",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-091": {
+    "id": "UA44BT-EVA-1-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-091",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-092": {
+    "id": "UA44BT-EVA-1-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-092",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-093": {
+    "id": "UA44BT-EVA-1-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-093",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-094": {
+    "id": "UA44BT-EVA-1-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-094",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-095": {
+    "id": "UA44BT-EVA-1-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-095",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-096": {
+    "id": "UA44BT-EVA-1-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-096",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-097": {
+    "id": "UA44BT-EVA-1-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-097",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-098": {
+    "id": "UA44BT-EVA-1-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-098",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-099": {
+    "id": "UA44BT-EVA-1-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-099",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-100": {
+    "id": "UA44BT-EVA-1-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-100",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP01": {
+    "id": "UA44BT-EVA-1-AP01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP01",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP01-ALT1": {
+    "id": "UA44BT-EVA-1-AP01-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP01-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP02": {
+    "id": "UA44BT-EVA-1-AP02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP02",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP02-ALT1": {
+    "id": "UA44BT-EVA-1-AP02-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP02-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP03": {
+    "id": "UA44BT-EVA-1-AP03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP03",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP04": {
+    "id": "UA44BT-EVA-1-AP04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP04",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP05": {
+    "id": "UA44BT-EVA-1-AP05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP05",
+    "type": "",
+    "cost": ""
+  },
+  "UA44BT-EVA-1-AP06": {
+    "id": "UA44BT-EVA-1-AP06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44BT-EVA-1-AP06",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-068": {
+    "id": "UA44ST-EVA-1-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-068",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-069": {
+    "id": "UA44ST-EVA-1-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-069",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-072": {
+    "id": "UA44ST-EVA-1-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-072",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-073": {
+    "id": "UA44ST-EVA-1-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-073",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-076": {
+    "id": "UA44ST-EVA-1-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-076",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-083": {
+    "id": "UA44ST-EVA-1-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-083",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-085": {
+    "id": "UA44ST-EVA-1-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-085",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-095": {
+    "id": "UA44ST-EVA-1-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-095",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-100": {
+    "id": "UA44ST-EVA-1-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-100",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-101": {
+    "id": "UA44ST-EVA-1-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-101",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-102": {
+    "id": "UA44ST-EVA-1-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-102",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-103": {
+    "id": "UA44ST-EVA-1-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-103",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-104": {
+    "id": "UA44ST-EVA-1-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-104",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-105": {
+    "id": "UA44ST-EVA-1-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-105",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-106": {
+    "id": "UA44ST-EVA-1-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-106",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-107": {
+    "id": "UA44ST-EVA-1-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-107",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-108": {
+    "id": "UA44ST-EVA-1-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-108",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-109": {
+    "id": "UA44ST-EVA-1-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-109",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-110": {
+    "id": "UA44ST-EVA-1-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-110",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-110-ALT1": {
+    "id": "UA44ST-EVA-1-110-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-110-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-111": {
+    "id": "UA44ST-EVA-1-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-111",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-111-ALT1": {
+    "id": "UA44ST-EVA-1-111-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-111-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-112": {
+    "id": "UA44ST-EVA-1-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-112",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-112-ALT1": {
+    "id": "UA44ST-EVA-1-112-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-112-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-113": {
+    "id": "UA44ST-EVA-1-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-113",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-113-ALT1": {
+    "id": "UA44ST-EVA-1-113-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-113-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UA44ST-EVA-1-AP01": {
+    "id": "UA44ST-EVA-1-AP01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UA44ST-EVA-1-AP01",
+    "type": "",
+    "cost": ""
+  },
+  "UAPB-EVA-AP01": {
+    "id": "UAPB-EVA-AP01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPB-EVA-AP01",
+    "type": "",
+    "cost": ""
+  },
+  "UAPR-EVA-1-010": {
+    "id": "UAPR-EVA-1-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPR-EVA-1-010",
+    "type": "",
+    "cost": ""
+  },
+  "UAPR-EVA-1-016": {
+    "id": "UAPR-EVA-1-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPR-EVA-1-016",
+    "type": "",
+    "cost": ""
+  },
+  "UAPR-EVA-1-070": {
+    "id": "UAPR-EVA-1-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPR-EVA-1-070",
+    "type": "",
+    "cost": ""
+  },
+  "UAPR-EVA-1-079": {
+    "id": "UAPR-EVA-1-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPR-EVA-1-079",
+    "type": "",
+    "cost": ""
+  },
+  "UAPR-EVA-1-079-ALT1": {
+    "id": "UAPR-EVA-1-079-ALT1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPR-EVA-1-079-ALT1",
+    "type": "",
+    "cost": ""
+  },
+  "UAPR-EVA-P-001": {
+    "id": "UAPR-EVA-P-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": "",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "UAPR-EVA-P-001",
+    "type": "",
+    "cost": ""
   }
 }
