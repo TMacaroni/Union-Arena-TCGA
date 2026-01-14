@@ -61,7 +61,7 @@
       "sections": {
         "customSections": [
           "lifearea",
-          "actionpoint",
+          "actionpoints",
           "frontline",
           "energyline"
         ],
@@ -82,7 +82,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "actionpoint",
+                  "section": "actionpoints",
                   "style": false
                 },
                 {
@@ -95,7 +95,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "actionpoint"
+          "Action Point"
         ],
         "autoPlayFromHand": {
           "Event": "Stack"
