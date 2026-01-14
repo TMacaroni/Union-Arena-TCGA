@@ -61,7 +61,6 @@
       "sections": {
         "customSections": [
           "lifearea",
-          "actionpoint",
           "frontline",
           "energyline"
         ],
@@ -106,7 +105,7 @@
         "sectionsDict": {
           "actionpoint": {
             "title": "actionpoint",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
