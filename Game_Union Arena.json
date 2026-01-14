@@ -18,10 +18,6 @@
       "Character",
       "Event",
       "Site",
-      "Energy Cost",
-      "Name",
-      "Color ",
-      "Energy Generation",
       "Action Point"
     ],
     "formats": [
@@ -61,17 +57,17 @@
       "sections": {
         "customSections": [
           "Life",
-          "Front_Line",
+          "Front",
           "Energy",
           "AP",
-          "Action Point"
+          "Action"
         ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Front_Line",
+              "section": "Front",
               "style": false
             },
             {
@@ -89,7 +85,7 @@
                   }
                 },
                 {
-                  "section": "Action_Point",
+                  "section": "Action",
                   "style": false
                 },
                 {
@@ -111,22 +107,6 @@
           "Event": "Stack"
         },
         "sectionsDict": {
-          "lifearea": {
-            "title": "Life",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
-          },
           "Front_Line": {
             "title": "Front_Line",
             "isHidden": "no",
@@ -159,15 +139,31 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": true
           },
-          "Action_Point": {
-            "title": "Action_Point",
+          "Life": {
+            "title": "Life",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Action": {
+            "title": "Action",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "AP",
+            "displayedTitle": "Action_Points",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
