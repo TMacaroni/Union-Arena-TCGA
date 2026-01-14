@@ -2055,7 +2055,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "AP",
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP01_translated.jpg",
@@ -2135,7 +2135,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "AP",
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP04_translated.jpg",
@@ -2599,7 +2599,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "AP",
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44ST-EVA-1-AP01_translated.jpg",
