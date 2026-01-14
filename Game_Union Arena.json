@@ -59,8 +59,7 @@
           "Life",
           "Front",
           "Energy",
-          "AP",
-          "Action"
+          "AP"
         ],
         "layout": {
           "direction": "row",
@@ -75,22 +74,8 @@
                   "style": false
                 },
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "AP",
-                      "style": {
-                        "width": "13vh",
-                        "margin-left": "11vh"
-                      }
-                    },
-                    {
-                      "section": "Action",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "AP",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -122,10 +107,130 @@
           "Event": "Stack"
         },
         "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Energy": {
             "title": "Energy",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -141,8 +246,8 @@
           "Life": {
             "title": "Life",
             "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
+            "height": "BIG",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -154,31 +259,15 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Action": {
-            "title": "Action",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Action_Points",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "AP": {
             "title": "AP",
             "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "BIG",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "AP AREA",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -189,7 +278,7 @@
           "Front": {
             "title": "Front",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
