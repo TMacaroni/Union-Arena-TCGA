@@ -18,7 +18,7 @@
       "Character",
       "Event",
       "Site",
-      "Action Point"
+      "AP"
     ],
     "formats": [
       {
@@ -107,22 +107,6 @@
           "Event": "Stack"
         },
         "sectionsDict": {
-          "Front_Line": {
-            "title": "Front_Line",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": true
-          },
           "Energy": {
             "title": "Energy",
             "isHidden": "no",
@@ -168,6 +152,38 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Front": {
+            "title": "Front",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
+          },
+          "AP": {
+            "title": "AP",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "AP AREA",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }

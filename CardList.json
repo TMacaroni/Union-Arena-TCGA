@@ -2056,14 +2056,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP01_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP01",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP01-ALT1": {
@@ -2072,14 +2072,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP01-ALT1_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP01-ALT1",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP02": {
@@ -2088,14 +2088,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP02_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP02",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP02-ALT1": {
@@ -2104,14 +2104,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP02-ALT1_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP02-ALT1",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP03": {
@@ -2120,14 +2120,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP03_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP03",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP04": {
@@ -2136,14 +2136,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP04_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP04",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP05": {
@@ -2152,14 +2152,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP05_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP05",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44BT-EVA-1-AP06": {
@@ -2168,14 +2168,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Character",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP06_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP06",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UA44ST-EVA-1-068": {
@@ -2282,7 +2282,7 @@
         "name": "",
         "type": "Character",
         "cost": "",
-        "image": "https://https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44ST-EVA-1-085_translated.jpg.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-085_translated.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44ST-EVA-1-085_translated.jpg",
         "isHorizontal": false
       }
     },
@@ -2600,14 +2600,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Character",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44ST-EVA-1-AP01_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA44ST-EVA-1-AP01",
-    "type": "Character",
+    "type": "AP",
     "cost": ""
   },
   "UAPB-EVA-AP01": {
@@ -2616,14 +2616,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "Action Point",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UAPB-EVA-AP01_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UAPB-EVA-AP01",
-    "type": "Action Point",
+    "type": "AP",
     "cost": ""
   },
   "UAPR-EVA-1-010": {
