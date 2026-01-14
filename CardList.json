@@ -2060,6 +2060,13 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP01_translated.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP01",
@@ -2075,6 +2082,13 @@
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP01-ALT1_translated.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
@@ -2092,6 +2106,13 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP02_translated.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP02",
@@ -2107,6 +2128,13 @@
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP02-ALT1_translated.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
@@ -2124,6 +2152,13 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP03_translated.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP03",
@@ -2139,6 +2174,13 @@
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP04_translated.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
@@ -2156,6 +2198,13 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP05_translated.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UA44BT-EVA-1-AP05",
@@ -2171,6 +2220,13 @@
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44BT-EVA-1-AP06_translated.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
@@ -2604,6 +2660,13 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UA44ST-EVA-1-AP01_translated.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UA44ST-EVA-1-AP01",
@@ -2619,6 +2682,13 @@
         "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/eva/UAPB-EVA-AP01_translated.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
