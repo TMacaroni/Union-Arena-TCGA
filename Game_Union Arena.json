@@ -44,7 +44,7 @@
         "startingHandSize": 7,
         "drawNewHand": false,
         "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -61,6 +61,7 @@
       "sections": {
         "customSections": [
           "lifearea",
+          "actionpoint",
           "frontline",
           "energyline"
         ],
@@ -105,7 +106,7 @@
         "sectionsDict": {
           "actionpoint": {
             "title": "actionpoint",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
