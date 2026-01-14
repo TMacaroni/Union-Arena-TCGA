@@ -111,7 +111,7 @@
             "isDefaultSection": true,
             "title": "Hand",
             "isHidden": "opponent-only",
-            "height": "DEFAULT",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "autoPayFrom": true,
             "isHorizontalAllowed": false,
@@ -230,7 +230,7 @@
           "Energy": {
             "title": "Energy",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -246,7 +246,7 @@
           "Life": {
             "title": "Life",
             "isHidden": "yes",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -262,7 +262,7 @@
           "AP": {
             "title": "AP",
             "isHidden": "yes",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -278,7 +278,7 @@
           "Front": {
             "title": "Front",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
