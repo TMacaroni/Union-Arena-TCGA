@@ -61,9 +61,9 @@
       "sections": {
         "customSections": [
           "lifearea",
-          "actionpoints",
           "frontline",
-          "energyline"
+          "energyline",
+          "actionpoints"
         ],
         "layout": {
           "direction": "column",
@@ -95,7 +95,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Action Point"
+          "actionpoints"
         ],
         "autoPlayFromHand": {
           "Event": "Stack"
@@ -104,38 +104,6 @@
           "Event": "Stack"
         },
         "sectionsDict": {
-          "actionpoint": {
-            "title": "actionpoint",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "AP",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "fronline": {
-            "title": "frontline",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": true
-          },
           "energyline": {
             "title": "energyline",
             "isHidden": "no",
@@ -166,6 +134,38 @@
             "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "frontline": {
+            "title": "frontline",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
+          },
+          "actionpoints": {
+            "title": "actionpoints",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "AP",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
         }
