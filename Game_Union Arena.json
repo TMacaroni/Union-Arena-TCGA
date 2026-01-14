@@ -60,21 +60,22 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "lifearea",
-          "frontline",
-          "energyline",
-          "actionpoints"
+          "Life",
+          "Front_Line",
+          "Energy",
+          "AP",
+          "Action Point"
         ],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "frontline",
+              "section": "Front_Line",
               "style": false
             },
             {
-              "section": "energyline",
+              "section": "Energy",
               "style": false
             },
             {
@@ -82,11 +83,17 @@
               "style": false,
               "content": [
                 {
-                  "section": "actionpoints",
+                  "section": "AP",
+                  "style": {
+                    "Height": "SMALL"
+                  }
+                },
+                {
+                  "section": "Action_Point",
                   "style": false
                 },
                 {
-                  "section": "lifearea",
+                  "section": "Life",
                   "style": false
                 }
               ],
@@ -95,7 +102,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Action Point"
+          "AP"
         ],
         "autoPlayFromHand": {
           "Event": "Stack"
@@ -104,24 +111,8 @@
           "Event": "Stack"
         },
         "sectionsDict": {
-          "energyline": {
-            "title": "energyline",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": true
-          },
           "lifearea": {
-            "title": "lifearea",
+            "title": "Life",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -136,8 +127,8 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "frontline": {
-            "title": "frontline",
+          "Front_Line": {
+            "title": "Front_Line",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -152,8 +143,24 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": true
           },
-          "actionpoints": {
-            "title": "actionpoints",
+          "Energy": {
+            "title": "Energy",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
+          },
+          "Action_Point": {
+            "title": "Action_Point",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
