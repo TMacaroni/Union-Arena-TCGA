@@ -63,31 +63,48 @@
           "Action"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Front",
-              "style": false
-            },
-            {
-              "section": "Energy",
-              "style": false
-            },
-            {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
-                  "section": "AP",
-                  "style": false
-                },
-                {
-                  "section": "Action",
-                  "style": false
-                },
-                {
                   "section": "Life",
+                  "style": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "AP",
+                      "style": {
+                        "width": "13vh",
+                        "margin-left": "11vh"
+                      }
+                    },
+                    {
+                      "section": "Action",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Front",
+                  "style": false
+                },
+                {
+                  "section": "Energy",
                   "style": false
                 }
               ],
@@ -161,7 +178,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "AP AREA",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
