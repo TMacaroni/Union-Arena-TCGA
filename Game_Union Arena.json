@@ -95,7 +95,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "actionpoints"
+          "Action Point"
         ],
         "autoPlayFromHand": {
           "Event": "Stack"
