@@ -5257,14 +5257,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-001.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-001_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "EX08BT-SAO-2-001",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Name": "",
     "ID": "EX08BT-SAO-2-001",
@@ -5276,14 +5276,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-002.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-002_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "EX08BT-SAO-2-002",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Name": "",
     "ID": "EX08BT-SAO-2-002",
@@ -5295,14 +5295,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-003.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-003_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "EX08BT-SAO-2-003",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Name": "",
     "ID": "EX08BT-SAO-2-003",
@@ -5314,14 +5314,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-004.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-004_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "EX08BT-SAO-2-004",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Name": "",
     "ID": "EX08BT-SAO-2-004",
@@ -5333,14 +5333,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-005.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-005_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "EX08BT-SAO-2-005",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Name": "",
     "ID": "EX08BT-SAO-2-005",
@@ -5941,9 +5941,9 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-037.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-037_translated.jpg",
         "isHorizontal": false
       }
     },
@@ -6378,14 +6378,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Event ",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-060.jpg",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/EX08BT-SAO-2-060_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "EX08BT-SAO-2-060",
-    "type": "",
+    "type": "Event ",
     "cost": "",
     "Name": "",
     "ID": "EX08BT-SAO-2-060",
