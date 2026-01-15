@@ -4698,14 +4698,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP01.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP01",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP01",
@@ -4717,14 +4724,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP02.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP02",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP02",
@@ -4736,14 +4750,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP03.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP03",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP03",
@@ -4755,14 +4776,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP04.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP04",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP04",
@@ -4778,10 +4806,17 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP05.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP05",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP05",
@@ -4797,10 +4832,17 @@
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP06.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
+        "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP06",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP06",
@@ -4812,14 +4854,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP07.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP07",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP07",
@@ -4831,14 +4880,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP08.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP08",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP08",
@@ -4850,14 +4906,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07BTSAO-1-AP09.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07BT/SAO-1-AP09",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07BT/SAO-1-AP09",
@@ -4909,7 +4972,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-103.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-103.png",
         "isHorizontal": false
       }
     },
@@ -4928,7 +4991,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-104.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-104.png",
         "isHorizontal": false
       }
     },
@@ -4947,7 +5010,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-105.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-105.png",
         "isHorizontal": false
       }
     },
@@ -4966,7 +5029,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-106.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-106.png",
         "isHorizontal": false
       }
     },
@@ -4985,7 +5048,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-107.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-107.png",
         "isHorizontal": false
       }
     },
@@ -5004,7 +5067,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-108.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-108.png",
         "isHorizontal": false
       }
     },
@@ -5023,7 +5086,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-109.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-109.png",
         "isHorizontal": false
       }
     },
@@ -5040,14 +5103,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-AP01.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-AP01.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07ST/SAO-1-AP01",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07ST/SAO-1-AP01",
@@ -5059,14 +5129,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07ST-SAO-1-AP02.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UE07STSAO-1-AP02.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UE07ST/SAO-1-AP02",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UE07ST/SAO-1-AP02",
@@ -5080,7 +5157,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPR-SAO-2-041.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPRSAO-2-041.png",
         "isHorizontal": false
       }
     },
@@ -5099,7 +5176,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPR-SAO-2-052.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPRSAO-2-052.png",
         "isHorizontal": false
       }
     },
@@ -5118,7 +5195,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPR-SAO-2-055.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPRSAO-2-055.png",
         "isHorizontal": false
       }
     },
@@ -5137,7 +5214,7 @@
         "name": "",
         "type": "",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPR-SAO-2-071.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPRSAO-2-071.png",
         "isHorizontal": false
       }
     },
@@ -5154,14 +5231,21 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
-        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPR-SAO-AP01.png",
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/sao/UEPRSAO-AP01.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/Union-Arena-TCGA/ap card back.jpg",
         "isHorizontal": false
       }
     },
     "name": "UEPR/SAO-AP01",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Name": "",
     "ID": "UEPR/SAO-AP01",
