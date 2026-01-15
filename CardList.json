@@ -6894,8 +6894,8 @@
     "ID": "EX08BT-SAO-2-AP01",
     "Set": "Sword Art Online"
   },
-  "EX08BT-SAO-2-AP01\u2605": {
-    "id": "EX08BT-SAO-2-AP01\u2605",
+  "EX08BT-SAO-2-AP01★": {
+    "id": "EX08BT-SAO-2-AP01★",
     "isToken": false,
     "face": {
       "front": {
@@ -6913,11 +6913,11 @@
         "isHorizontal": false
       }
     },
-    "name": "EX08BT-SAO-2-AP01\u2605",
+    "name": "EX08BT-SAO-2-AP01★",
     "type": "AP",
     "cost": "",
     "Name": "",
-    "ID": "EX08BT-SAO-2-AP01\u2605",
+    "ID": "EX08BT-SAO-2-AP01★",
     "Set": "Sword Art Online"
   },
   "EX08BT-SAO-2-AP02": {
@@ -6946,8 +6946,8 @@
     "ID": "EX08BT-SAO-2-AP02",
     "Set": "Sword Art Online"
   },
-  "EX08BT-SAO-2-AP02\u2605": {
-    "id": "EX08BT-SAO-2-AP02\u2605",
+  "EX08BT-SAO-2-AP02★": {
+    "id": "EX08BT-SAO-2-AP02★",
     "isToken": false,
     "face": {
       "front": {
@@ -6965,11 +6965,11 @@
         "isHorizontal": false
       }
     },
-    "name": "EX08BT-SAO-2-AP02\u2605",
+    "name": "EX08BT-SAO-2-AP02★",
     "type": "AP",
     "cost": "",
     "Name": "",
-    "ID": "EX08BT-SAO-2-AP02\u2605",
+    "ID": "EX08BT-SAO-2-AP02★",
     "Set": "Sword Art Online"
   },
   "EX08BT-SAO-2-AP03": {
@@ -6998,8 +6998,8 @@
     "ID": "EX08BT-SAO-2-AP03",
     "Set": "Sword Art Online"
   },
-  "EX08BT-SAO-2-AP03\u2605": {
-    "id": "EX08BT-SAO-2-AP03\u2605",
+  "EX08BT-SAO-2-AP03★": {
+    "id": "EX08BT-SAO-2-AP03★",
     "isToken": false,
     "face": {
       "front": {
@@ -7017,11 +7017,11 @@
         "isHorizontal": false
       }
     },
-    "name": "EX08BT-SAO-2-AP03\u2605",
+    "name": "EX08BT-SAO-2-AP03★",
     "type": "AP",
     "cost": "",
     "Name": "",
-    "ID": "EX08BT-SAO-2-AP03\u2605",
+    "ID": "EX08BT-SAO-2-AP03★",
     "Set": "Sword Art Online"
   },
   "EX08BT-SAO-2-AP04": {
@@ -9515,14 +9515,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-001_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA46BT-KGR-1-001",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -9532,14 +9532,14 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Character",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-002_translated.jpg",
         "isHorizontal": false
       }
     },
     "name": "UA46BT-KGR-1-002",
-    "type": "",
+    "type": "Character",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -10909,7 +10909,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP01_translated.jpg",
         "isHorizontal": false
@@ -10923,7 +10923,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP01",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -10933,7 +10933,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP02_translated.jpg",
         "isHorizontal": false
@@ -10947,7 +10947,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP02",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -10957,7 +10957,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP03_translated.jpg",
         "isHorizontal": false
@@ -10971,7 +10971,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP03",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -10981,7 +10981,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP04_translated.jpg",
         "isHorizontal": false
@@ -10995,7 +10995,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP04",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11005,7 +11005,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP05_translated.jpg",
         "isHorizontal": false
@@ -11019,7 +11019,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP05",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11029,7 +11029,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP06_translated.jpg",
         "isHorizontal": false
@@ -11043,7 +11043,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP06",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11053,7 +11053,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP07_translated.jpg",
         "isHorizontal": false
@@ -11067,7 +11067,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP07",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11077,7 +11077,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP08_translated.jpg",
         "isHorizontal": false
@@ -11091,7 +11091,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP08",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11101,7 +11101,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP09_translated.jpg",
         "isHorizontal": false
@@ -11115,7 +11115,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP09",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11125,7 +11125,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP10_translated.jpg",
         "isHorizontal": false
@@ -11139,7 +11139,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP10",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11173,7 +11173,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UA46BT-KGR-1-AP12_translated.jpg",
         "isHorizontal": false
@@ -11187,7 +11187,7 @@
       }
     },
     "name": "UA46BT-KGR-1-AP12",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11221,7 +11221,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UAPB-KGR-AP01_translated.jpg",
         "isHorizontal": false
@@ -11235,7 +11235,7 @@
       }
     },
     "name": "UAPB-KGR-AP01",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11245,7 +11245,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UAPR-KGR-AP01_translated.jpg",
         "isHorizontal": false
@@ -11259,7 +11259,7 @@
       }
     },
     "name": "UAPR-KGR-AP01",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11269,7 +11269,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "AP",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UAPR-KGR-AP02_translated.jpg",
         "isHorizontal": false
@@ -11283,7 +11283,7 @@
       }
     },
     "name": "UAPR-KGR-AP02",
-    "type": "",
+    "type": "AP",
     "cost": "",
     "Set": "Kagerabachi"
   },
@@ -11293,7 +11293,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "",
+        "type": "Event ",
         "cost": "",
         "image": "https://tmacaroni.github.io/Union-Arena-TCGA/img/Kagerabachi/UAPR-KGR-P-001_translated.jpg",
         "isHorizontal": false
@@ -11307,7 +11307,7 @@
       }
     },
     "name": "UAPR-KGR-P-001",
-    "type": "",
+    "type": "Event ",
     "cost": "",
     "Set": "Kagerabachi"
   }
