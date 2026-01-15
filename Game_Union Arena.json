@@ -101,10 +101,11 @@
           "AP"
         ],
         "autoPlayFromHand": {
-          "Event": "Stack"
+          "Event": "Pile"
         },
         "autoPlayFromStack": {
-          "Event": "Stack"
+          "Event": "Pile",
+          "Character": "Pile"
         },
         "sectionsDict": {
           "Hand": {
@@ -163,8 +164,8 @@
             "isDefaultSection": true,
             "title": "Stack",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "NONE",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "displayedTitle": "Pile",
